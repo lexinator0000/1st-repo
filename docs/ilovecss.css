@@ -1,0 +1,40 @@
+body {
+background-color: #9C1E03;
+color: #F46344;
+font-family: arial, helvetica, sans-serif;
+}
+h1{
+    color: #F28F7A;
+    Font-family: arial;
+    text-align:center;
+    font-size:20px;
+}
+h2{
+    color: #E35C5C;
+    Font-family: arial;
+    text-align:center;
+    font-size:20px;
+}
+h3{
+   color: #2c218a;
+    Font-family: arial;
+    text-align:center;
+    font-size:20px; 
+}
+a{
+    text-align:center;
+}
+.bottom-image {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+}
+.top-img1 {
+    position: fixed;
+    top: 0;
+    right: 0%;
+    width: 50%;
+    z-index: 10;
+}
